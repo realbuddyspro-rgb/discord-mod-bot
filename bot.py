@@ -5,7 +5,7 @@ import os
 from datetime import datetime, timedelta
 
 # Токен берется ТОЛЬКО из переменной окружения
-TOKEN = os.getenv('ad2mD7FwwKhu1OjWgYct7onR7KiNor6T')
+TOKEN = os.getenv('x_2SJSBreKj2TEprvEgr1G9Jy-wx7q9B')
 
 # Проверка наличия токена
 if not TOKEN:
